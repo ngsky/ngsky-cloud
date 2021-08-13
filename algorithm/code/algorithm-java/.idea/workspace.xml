@@ -4,83 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2124a73-15d4-4520-ae36-8db3101ca3a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/GenBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/bst/BSExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/bst/BSNearLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/bst/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/bst/BinarySearchTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/bst/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dfs/Dfs01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dfs/Dfs02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dfs/Dfs02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dfs/Dfs3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dp/Dp01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/dp/Dp02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/frame/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/frame/Fib1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/frame/Fib2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/frame/Fib3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/ioc/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_639.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/list/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/list/ReverseTwoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/BubbleSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/MergeSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/MyHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/ArrayKthNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Deformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/MinDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_06_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_06_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_07_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_07_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/RotateWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/BitYS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/ConvertToLetterString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/Hanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/LongestCommonSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/MyKMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/PrintAllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/PrintSubsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/RobotWalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/SlidingWindowMaxArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/TopologySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/jj/graph/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2124a73-15d4-4520-ae36-8db3101ca3a4" name="Default Changelist" comment="[I]restart">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/ColorLeftRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/CordCoverMaxPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/NeedParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,16 +64,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ngsky.algorithm.interview.meituan" />
       <recent name="com.ngsky.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Deformation">
-    <configuration name="Deformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.Deformation" />
+  <component name="RunManager" selected="Application.MultiThreadPrint4">
+    <configuration name="MultiThreadPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.zuo.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.MinDistance" />
+    <configuration name="MultiThreadPrint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint2" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.zuo.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.Palindrome" />
+    <configuration name="MultiThreadPrint3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint3" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.zuo.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseTwoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.list.ReverseTwoList" />
+    <configuration name="MultiThreadPrint4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint4" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.list.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.RotateWord" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.Test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.zuo.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Deformation" />
-        <item itemvalue="Application.MinDistance" />
-        <item itemvalue="Application.RotateWord" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseTwoList" />
+        <item itemvalue="Application.MultiThreadPrint4" />
+        <item itemvalue="Application.MultiThreadPrint3" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MultiThreadPrint2" />
+        <item itemvalue="Application.MultiThreadPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -261,8 +195,19 @@
       <workItem from="1627783301131" duration="4436000" />
       <workItem from="1627957968325" duration="1482000" />
       <workItem from="1628474263022" duration="5686000" />
-      <workItem from="1628492400935" duration="17994000" />
+      <workItem from="1628492400935" duration="18987000" />
+      <workItem from="1628649327358" duration="604000" />
+      <workItem from="1628668908318" duration="12868000" />
+      <workItem from="1628818928198" duration="7862000" />
     </task>
+    <task id="LOCAL-00001" summary="[I]restart">
+      <created>1628586483607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628586483607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +224,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[I]restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="[I]restart" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

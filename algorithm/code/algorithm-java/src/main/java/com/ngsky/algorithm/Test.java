@@ -36,7 +36,12 @@ public class Test {
 //        x = x - 1;
 //        System.out.println(x);
 
-        List<Integer> ll = new ArrayList<>();
-        System.out.println(ll.get(9));
+//        List<Integer> ll = new ArrayList<>();
+//        System.out.println(ll.get(9));
+
+//        System.out.println(1<<29);
+//        System.out.println((1<<29) - 1);
+
+        System.out.println(Runtime.getRuntime().availableProcessors());
     }
 }
