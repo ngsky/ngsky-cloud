@@ -42,6 +42,24 @@ public class Test {
 //        System.out.println(1<<29);
 //        System.out.println((1<<29) - 1);
 
-        System.out.println(Runtime.getRuntime().availableProcessors());
+//        System.out.println(Runtime.getRuntime().availableProcessors());
+//        System.out.println('A'-'a');  // -32 -> 26: -32+32 = 0 + 26
+//        System.out.println('B'-'a');  // -33 -> 27: -33+32 = -1 -> 1 + 26 = 27
+//        System.out.println('Z'-'a');  // -34 -> 28: -34+32 = -2 -> 2 + 26 = 28
+
+        Set<Integer> set = new HashSet<>();
+        set.add(5);
+        set.add(4);
+        set.add(9);
+        set.add(10);
+        set.add(1);
+        set.add(2);
+        set.add(4);
+        set.add(200);
+
+        Iterator<Integer> it = set.iterator();
+        while(it.hasNext()){
+            System.out.println(it.next());
+        }
     }
 }

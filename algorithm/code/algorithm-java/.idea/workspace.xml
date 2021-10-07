@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2124a73-15d4-4520-ae36-8db3101ca3a4" name="Default Changelist" comment="[I]restart">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/interview/meituan/MultiThreadPrint4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/ColorLeftRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/CordCoverMaxPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/NeedParentheses.java" afterDir="false" />
+    <list default="true" id="b2124a73-15d4-4520-ae36-8db3101ca3a4" name="Default Changelist" comment="[I]线程轮流打印算法">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_2024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_2025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/thread/threadlocal/ThreadLocal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/SlideWindow_210906.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_05_ChooseWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_06_LCSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_06_MinPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_06_SnacksWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_07_CustomHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_07_LCSbustring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/a2021/a10/A10_07_TopKTimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/Test.java" afterDir="false" />
     </list>
@@ -60,7 +72,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -68,13 +80,13 @@
       <recent name="com.ngsky.algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadPrint4">
-    <configuration name="MultiThreadPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint" />
+  <component name="RunManager" selected="Application.A10_07_CustomHeap">
+    <configuration name="A10_06_LCSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.a2021.a10.A10_06_LCSubsequence" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.zuo.a2021.a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadPrint2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint2" />
+    <configuration name="A10_06_MinPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.a2021.a10.A10_06_MinPathSum" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.zuo.a2021.a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadPrint3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint3" />
+    <configuration name="A10_07_CustomHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.a2021.a10.A10_07_CustomHeap" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.zuo.a2021.a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadPrint4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.interview.meituan.MultiThreadPrint4" />
+    <configuration name="A10_07_LCSbustring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.a2021.a10.A10_07_LCSbustring" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.interview.meituan.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.zuo.a2021.a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.Test" />
+    <configuration name="A10_07_TopKTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ngsky.algorithm.zuo.a2021.a10.A10_07_TopKTimes" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ngsky.algorithm.*" />
+          <option name="PATTERN" value="com.ngsky.algorithm.zuo.a2021.a10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +146,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiThreadPrint4" />
-        <item itemvalue="Application.MultiThreadPrint3" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MultiThreadPrint2" />
-        <item itemvalue="Application.MultiThreadPrint" />
+        <item itemvalue="Application.A10_07_CustomHeap" />
+        <item itemvalue="Application.A10_07_TopKTimes" />
+        <item itemvalue="Application.A10_07_LCSbustring" />
+        <item itemvalue="Application.A10_06_LCSubsequence" />
+        <item itemvalue="Application.A10_06_MinPathSum" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +208,18 @@
       <workItem from="1628492400935" duration="18987000" />
       <workItem from="1628649327358" duration="604000" />
       <workItem from="1628668908318" duration="12868000" />
-      <workItem from="1628818928198" duration="7862000" />
+      <workItem from="1628818928198" duration="8902000" />
+      <workItem from="1629001259664" duration="512000" />
+      <workItem from="1629016097077" duration="3539000" />
+      <workItem from="1629170232780" duration="598000" />
+      <workItem from="1629382022309" duration="128000" />
+      <workItem from="1629883346965" duration="13696000" />
+      <workItem from="1630028224165" duration="6651000" />
+      <workItem from="1630332972108" duration="6686000" />
+      <workItem from="1631064389426" duration="229000" />
+      <workItem from="1631066979170" duration="6638000" />
+      <workItem from="1631284306416" duration="2042000" />
+      <workItem from="1633316042441" duration="34343000" />
     </task>
     <task id="LOCAL-00001" summary="[I]restart">
       <created>1628586483607</created>
@@ -207,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628586483607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[I]线程轮流打印算法">
+      <created>1628863034991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628863034991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,72 +255,138 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[I]restart" />
-    <option name="LAST_COMMIT_MESSAGE" value="[I]restart" />
+    <MESSAGE value="[I]线程轮流打印算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="[I]线程轮流打印算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_07_01.java</url>
           <line>43</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Pro_03_07_01.java</url>
           <line>52</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_639.java</url>
           <line>17</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu3.java</url>
           <line>69</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu3.java</url>
           <line>15</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu3.java</url>
           <line>25</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/Zhongweishu3.java</url>
           <line>50</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_22.java</url>
           <line>7</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_22.java</url>
           <line>16</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_42.java</url>
           <line>18</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_44.java</url>
           <line>38</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/list/ReverseList.java</url>
           <line>50</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/thread/threadlocal/ThreadLocal1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/thread/threadlocal/ThreadLocal1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/thread/threadlocal/ThreadLocal1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/thread/threadlocal/ThreadLocal1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_291.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_75.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_79.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_79.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_116.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_130.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/leetcode/o1/Leetcode_130.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ngsky/algorithm/zuo/SlideWindow_210906.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.ngsky.algorithm.leetcode.o1.Leetcode_116$Node" memberName="left" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
